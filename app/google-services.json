@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "498196212694",
+    "firebase_url": "https://fir-databaseapp-bb154-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-databaseapp-bb154",
+    "storage_bucket": "fir-databaseapp-bb154.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498196212694:android:cc9556c0bd90bd3eb6d277",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatabaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498196212694-r06kdn910jngjlvm5add0piduprphc07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa7H6u57TUxpS8UZNmY6Gl3iBXGwhsEAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498196212694-r06kdn910jngjlvm5add0piduprphc07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

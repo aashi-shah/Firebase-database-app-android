@@ -1,0 +1,31 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FirebaseDatabaseApp/app/src/main/res/drawable-v24/edittext.xml" value="0.1" />
+        <entry key="..\:/FirebaseDatabaseApp/app/src/main/res/layout/activity_add.xml" value="0.1" />
+        <entry key="..\:/FirebaseDatabaseApp/app/src/main/res/layout/activity_display.xml" value="0.1" />
+        <entry key="..\:/FirebaseDatabaseApp/app/src/main/res/layout/activity_display_auth.xml" value="0.1" />
+        <entry key="..\:/FirebaseDatabaseApp/app/src/main/res/layout/activity_displayfb.xml" value="0.20729166666666668" />
+        <entry key="..\:/FirebaseDatabaseApp/app/src/main/res/layout/activity_displayuser.xml" value="0.27447916666666666" />
+        <entry key="..\:/FirebaseDatabaseApp/app/src/main/res/layout/activity_face_booklogin.xml" value="0.27447916666666666" />
+        <entry key="..\:/FirebaseDatabaseApp/app/src/main/res/layout/activity_facebooklogin.xml" value="0.27447916666666666" />
+        <entry key="..\:/FirebaseDatabaseApp/app/src/main/res/layout/activity_login.xml" value="0.14375" />
+        <entry key="..\:/FirebaseDatabaseApp/app/src/main/res/layout/activity_loginauth.xml" value="0.1" />
+        <entry key="..\:/FirebaseDatabaseApp/app/src/main/res/layout/activity_signin_google.xml" value="0.1" />
+        <entry key="..\:/FirebaseDatabaseApp/app/src/main/res/layout/activity_signup.xml" value="0.14375" />
+        <entry key="..\:/FirebaseDatabaseApp/app/src/main/res/layout/activity_signupauth.xml" value="0.1" />
+        <entry key="..\:/FirebaseDatabaseApp/app/src/main/res/layout/activity_splash.xml" value="0.14375" />
+        <entry key="..\:/FirebaseDatabaseApp/app/src/main/res/layout/activity_update.xml" value="0.1" />
+        <entry key="..\:/FirebaseDatabaseApp/app/src/main/res/layout/activity_user.xml" value="0.27447916666666666" />
+        <entry key="..\:/FirebaseDatabaseApp/app/src/main/res/layout/raw_custom_list.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

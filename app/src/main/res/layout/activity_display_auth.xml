@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DisplayAuthActivity"
+    android:orientation="vertical"
+    android:padding="25dp"
+    android:gravity="center"
+    android:background="@color/white">
+
+    <TextView
+        android:id="@+id/Authfn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edittext"
+        android:padding="20dp"
+        android:textColor="@color/black"
+        />
+    <TextView
+        android:id="@+id/Authln"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edittext"
+        android:padding="20dp"
+        android:textColor="@color/black"
+        android:layout_marginTop="15dp"
+        />
+    <TextView
+        android:id="@+id/Authemail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edittext"
+        android:padding="20dp"
+        android:textColor="@color/black"
+        android:layout_marginTop="15dp"
+        />
+</LinearLayout>
